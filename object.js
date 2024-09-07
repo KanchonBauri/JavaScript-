@@ -40,3 +40,10 @@ const key = Object.keys(person);
 const value = Object.values(person);
 // console.log(value);
 // output: [ 'Rajshahi', '0170000000' ]
+
+
+
+function getMenu() {
+ console.log("Burger, Pizza, Pasta");
+}
+getMenu()
