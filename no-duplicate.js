@@ -1,3 +1,4 @@
+// ai function ধারা বুজায় যে briyaniKhor এর ভিতরে যে নাম গুলা আছে ওই নাম গুলা এক বারের বেশি দেখাবে না।
 function noDuplicate(array){
     const unique =[];
     for(const item of array){
